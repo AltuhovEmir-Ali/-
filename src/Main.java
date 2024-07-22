@@ -7,8 +7,8 @@ public class Main {
         Employee employee = new Employee(11, "vava",92803716);
         System.out.println(employee);
         Company company = new Company("vava");
-        System.out.println(Company.printCompanyName( ));
         System.out.println(Company.changerCompanyName("baba"));
+        System.out.println(Company.printCompanyName( ));
 
 
     }
